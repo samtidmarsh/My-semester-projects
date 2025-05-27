@@ -29,7 +29,17 @@ This repository contains projects I have made within python!
 - Computer choice is randomized.
 - Prints record. 
 - Can continue playing.  
-.  
-
+### Project 6: Book List
+**Summary**: This program creates a list of books for the user to read. 
+**Key Features**: 
+- Computer choice is randomized.
+- Prints books.
+- Can continue playing.  
+### Project 7: Connections
+**Summary**: This program allows the user to play the NYT connections game and guess words in lists
+**Key Features**: 
+- Computer choice is randomized.
+- Prints points 
+- Can continue playing.  
   
 
